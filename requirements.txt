@@ -1,0 +1,10 @@
+langchain
+CTransformers
+sentence_transformers
+chromadb
+fastapi
+jinja2
+aiofiles
+pypdf
+python-multipart
+faiss-cpu
